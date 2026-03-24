@@ -1,5 +1,4 @@
-# Lista de Exercícios 1 e 2 — Algoritmos e Lógica de Programação em C
-# Linguagem C Status Disciplina
+# Lista de Exercícios 1 e 2  Programação em C
 
 Sobre o projeto
 Este repositório foi criado para armazenar:
